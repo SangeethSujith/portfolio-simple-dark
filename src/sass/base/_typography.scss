@@ -37,6 +37,9 @@ a:hover {
 .dark-blue-text {
   color: $dark-blue-text !important;
 }
+.white-text{
+  color: $white-color
+}
 
 .text-color-main {
   @include supportColorForIE11();
